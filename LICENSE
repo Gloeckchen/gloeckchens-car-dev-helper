@@ -1,24 +1,28 @@
-This is free and unencumbered software released into the public domain.
+Hey! Ich bin Glöckchen. Bitte Lese das hier um zu Verstehe was du tun Musst (Eigentlich Selbsterklärend aber Egal^^)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Also als Erstes musst du Python auf deinem Computer installieren falls du das noch nicht getan hast.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Du öffnest den Heruntergeladenen Ordner und drückst auf die Zeile wo der Pfad des Ordners angegeben ist.
+Dort tippst du dann "cmd" ein und Bestätigst mit Enter
+Jetzt Öffnet sich die Eingabeaufforderung und du tippst folgenden Befehl ein: "python gloeckchen.py"
+Nun hast du das Programm gestartet.
+Das Programm fragt nun "Spawnname (oder 'exit' zum Beenden):" dort tippst du dann den Spawnnamen des Fahrzeugs ein das du erstellen Willst.
+Das wars Eigentlich auch schon^^
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Jetzt zu den Möglichen fragen:
 
-For more information, please refer to <https://unlicense.org>
+Wofür ist das Programm?
+Das Programm ist dafür da um das Erstellen von FiveM Fahrzeugen zu vereinfachen.
+
+Was machst das Programm beim Ausführen?
+Bei der ersten Erstellung eines Fahrzeuges erstellt es auf deinem Desktop einen Ordner mit dem  Namen "CD" (CD für Car Developing)
+In "CD" erstellt es dann einen Ordner mit dem von dir einegegebenen Spawnnamen. Der Ordner enthält sofort folgende Ordner und Dateien:
+- "stream" Ordner
+- "data" Ordner
+- "_resource.lua" (Schon ausgefühlt kann nach Belieben angepasst Werden)
+
+Ist das Programm sicher?
+Du kannst es vor dem Ausführen über den Editor öffnen und dir Anschauen. Es enthält Kein Virus oder andere Schädliche dateien.
+
+Für weitere Fragen melde dich bei mir über Discord!
+Discord: mrgloeckchen
